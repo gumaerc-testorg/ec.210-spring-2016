@@ -1,8 +1,8 @@
 ---
 content_type: page
+description: This section contains information about the schedule for class.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 58b685dd-0ecb-5f17-bca9-04cd4af5f6c3
 ---
