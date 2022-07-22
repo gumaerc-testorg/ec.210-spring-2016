@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information about the course meeting times and
+  grading percentages.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c77db325-3d26-5eee-32c0-8ec2dc8a522d
 ---
